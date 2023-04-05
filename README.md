@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://fozyhero.in)
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://ANU4247.in)
 
 <h1 align="center">Hi 👋, I'm Anupam Sinha</h1>
 <h3 align="center">A passionate frontend developer from India, wanna be Full Stack developer.</h3>
@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anu42427&label=Profile%20views&color=0e75b6&style=flat" alt="anu42427" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anu42427&label=Profile%20views&color=0e75b6&style=flat" alt="ANU42427" /> </p>
 
 - 🔭 I’m currently working on [AI-ML PROJECT](Sentiment Ananlysis)
 
@@ -44,8 +44,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/fozyhero"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/fozyhero" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anu42427&show_icons=true&locale=en&layout=compact" alt="anu42427" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anu42427&show_icons=true&locale=en&layout=compact" alt="ANU42427" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anu42427&show_icons=true&locale=en" alt="anu42427" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anu42427&show_icons=true&locale=en" alt="ANU42427" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anu42427&" alt="anu42427" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anu42427&" alt="ANU42427" /></p>
