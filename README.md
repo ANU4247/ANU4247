@@ -1,6 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Anupam Sinha</h1>
+
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Fozyhero-red)](https://www.youtube.com/developerfunnel)
+[![Linkedin Badge](https://img.shields.io/badge/-Anupam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aakash--01629954/](https://www.linkedin.com/in/anupam-sinha-3377a4227/))]([https://www.linkedin.com/in/aakash--01629954/](https://www.linkedin.com/in/anupam-sinha-3377a4227/))
+[![Website Badge](https://img.shields.io/badge/WebSite-Anupam-green)](https://anu4247.github.io/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Anupam-yellow)](https://stackoverflow.com/users/21888905/anupam-sinha)
+
+
 <h3 align="center">A passionate frontend developer from India, wanna be Full Stack developer.</h3>
 
 
