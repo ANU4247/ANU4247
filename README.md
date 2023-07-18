@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **anupamsinha2000@gmail.com**
 
-- ⚡ Fun fact **I'm Lazy!!**
+- ⚡ Fun fact **I do Smart Work !!**
 
 <!-- 
 ## 🌐 Socials:
